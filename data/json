@@ -1,0 +1,57 @@
+{
+    "data": {
+        "rrr": {
+            "tiposdemedico": "eee",
+            "indentificacion": "rrr",
+            "nombre_apellido ": "rr",
+            "correo_electronico": "rr",
+            "numero_de_consultorio": "rrrr",
+            "horario_de_atencion ": "rrrr",
+            "horario": {
+                "ma\u00f1ana": {},
+                "tarde": {}
+            }
+        },
+        "fff": {
+            "indentificacion": "fff",
+            "nombre_apellido ": "dar",
+            "telefonico": "dd",
+            "celular": "dd",
+            "fecha": {
+                "dia": {},
+                "mes": {},
+                "a\u00f1o": {}
+            },
+            "edad": "ddd",
+            "genero ": "ddd"
+        },
+        "dd": {
+            "id_medico": "dd",
+            "id_paciente": "dd",
+            "fecha": "ddd",
+            "diagnostico": "dd",
+            "tratamiento": "dd"
+        },
+        "s": {
+            "id_medico": "s",
+            "id_paciente": "s",
+            "fecha": "s",
+            "diagnostico": "s",
+            "tratamiento": "s"
+        },
+        "123": {
+            "id_medico": "123",
+            "id_paciente": "1852",
+            "fecha": "8/8/8",
+            "diagnostico": "uhdfug",
+            "tratamiento": "hdufhu"
+        },
+        "741": {
+            "id_medico": "741",
+            "id_paciente": "258",
+            "fecha": "8/8/8",
+            "diagnostico": "{jihic",
+            "tratamiento": "ggd"
+        }
+    }
+}
